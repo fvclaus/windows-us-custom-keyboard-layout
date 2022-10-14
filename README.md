@@ -1,3 +1,13 @@
+# US International Custom Keyboard Layout
+
+## Motivation
+I wanted to use the same keyboard shortcuts from Linux in Windows. For example Alt+Gr+u for usages in my IDE.
+
+## Solution
+This keyboard layout is identical to US_INTL except for the Alt+Gr keys. I have kept only the ones I use so that the other combinations can be used as keyboard shortcuts in applications.
+
+![us_custom](us_custom.png)
+
 ## Installation
 
 Open the installer in us/
